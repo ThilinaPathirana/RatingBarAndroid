@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500760878993",
+    "firebase_url": "https://ratingbartutorial-master.firebaseio.com",
+    "project_id": "ratingbartutorial-master",
+    "storage_bucket": "ratingbartutorial-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500760878993:android:7eb63fa09922dffb",
+        "android_client_info": {
+          "package_name": "com.codingdemos.ratingbartutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500760878993-0hjnodmkkpna4pgqg64ekrahu2uj8qoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingdemos.ratingbartutorial",
+            "certificate_hash": "29e6ec31a7821b699874653aa746227da491ab22"
+          }
+        },
+        {
+          "client_id": "500760878993-mt1ir5mjjf5ls0h07io3fk7sb50tmcpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYEqHUVKgt-dQ74gyC_OkCcEEawNXRAyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500760878993-mt1ir5mjjf5ls0h07io3fk7sb50tmcpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
