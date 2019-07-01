@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RatingBarAndroid.iml" filepath="$PROJECT_DIR$/RatingBarAndroid.iml" />
       <module fileurl="file://E:\RatingbarTutorial-master\RatingbarTutorial.iml" filepath="E:\RatingbarTutorial-master\RatingbarTutorial.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RatingbarTutorial-master.iml" filepath="$PROJECT_DIR$/RatingbarTutorial-master.iml" />
+      <module fileurl="file://F:\RatingBarAndroid\RatingbarTutorial-master.iml" filepath="F:\RatingBarAndroid\RatingbarTutorial-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\RatingBarAndroid\app\app.iml" filepath="F:\RatingBarAndroid\app\app.iml" />
     </modules>
   </component>
 </project>
